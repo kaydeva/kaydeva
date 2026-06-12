@@ -2,7 +2,8 @@
 Crafting clean, structured, and modern digital experiences.
 I turn ideas into functional products with a mix of engineering, UI/UX, and business logic.
 
-💚 About Me
+💚 About Me:
+
 I’m a full‑stack developer with a passion for building systems that feel smooth, intuitive, and meaningful.
 I specialize in transforming raw ideas into structured digital platforms — from requirements, to architecture, to UI, to deployment.
 
