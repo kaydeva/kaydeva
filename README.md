@@ -8,13 +8,10 @@ I specialize in transforming raw ideas into structured digital platforms — fro
 
 I love:
 
-Clean architecture
-
-Beautiful UI
-
-Real‑world problem solving
-
-Building full products, not just pages
+-Clean architecture
+-Beautiful UI
+-Real‑world problem solving
+-Building full products, not just pages
 
 🛠️ Skills & Technologies
 Frontend: 
