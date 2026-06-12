@@ -1,4 +1,4 @@
-🌿 Hi, I'm Kawthar — Software Developer & Digital Systems Builder
+🌿 Hi, I'm Kathy — Software Developer & Digital Systems Builder
 Crafting clean, structured, and modern digital experiences.
 I turn ideas into functional products with a mix of engineering, UI/UX, and business logic.
 
