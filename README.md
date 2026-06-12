@@ -55,7 +55,7 @@ A simple productivity tool built with Python and file‑based storage.
 -
 
 📬 Contact
-Portfolio: soon
+Portfolio: https://kaydeva-portfolio.web.app/
 
 Email: kaydeva.godigital@gmail.com
 
